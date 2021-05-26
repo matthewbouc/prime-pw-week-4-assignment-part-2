@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  margin: 5% 30%;
+  border: 2px solid black;
+}
+
+
+header {
+  color: gold;
+  background-color: maroon;
+  border: 2px solid black;
+}
+
+p {
+  font-size: 10px;
+}
+
+.info {
+  color: darkred;
+  background-color: silver;
+}
+
+.image {
+  width: 500px;
+}
+
+h3 {
+  color: teal;
+  background-color: midnightblue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
